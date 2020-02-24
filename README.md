@@ -5,6 +5,7 @@ There are markers on the map that indicate a location and contains the nickname 
 
 ### Prerequisites:
 Install flask, folium and geopy modules.
+And enter your keys obtained by Twitter API into the file 'hidden.py'.
 ```
 pip install flask
 ```
