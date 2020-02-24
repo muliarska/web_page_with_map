@@ -1,6 +1,6 @@
 # web_page_with_map
 
-This is a web application where the user enters his Twitter nickname (screen name) and receives a map of his friends' locations. 
+This is a web application where the user enters his or her Twitter nickname (screen name) and receives a map of his or her friends' locations. 
 There are markers on the map that indicate a location and contains the nickname (screen name) of a friend.
 
 ### Prerequisites:
